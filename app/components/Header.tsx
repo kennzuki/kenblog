@@ -10,7 +10,7 @@ const Header = () => {
           <div className="text-center my-8">
               <h1 className="text-3xl sm:text-5xl font-bold">Latest Blog</h1>
               <p className="mt-10 max-w-[740px] m-auto text-xs sm:text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat laborum numquam reiciendis.</p>
-              <form action="" className="flex justify-between max-w-[500px] scale-75 sm:scale-100 mx-auto mt-10  py-4 px-6 border-2 border-black shadow-[-7px_7px_0px_#000000]">
+              <form action="" className="flex justify-between max-w-[500px] scale-75 sm:scale-100 mx-auto mt-10  py-3 px-6 border-2 border-black shadow-[-7px_7px_0px_#000000]">
                   <input type="text" className="pl-4 outli" placeholder="Enter your email" />
                   <button type="submit" className="border-l active:bg-gray-600 active:text-white py-4 px-8">Subscribe</button>
               </form>
